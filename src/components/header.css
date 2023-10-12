@@ -1,8 +1,7 @@
 .app-header {
   display: flex;
   align-items: center;
-  background-color: #ffffd3;
-  color: white;
+  background-color: #0f2836;
   padding: 10px;
   margin-bottom: 20px;
 }
@@ -12,9 +11,10 @@
   height: 50px;
   margin-right: 10px;
   margin-left: 10px;
+  fill: #fffff9;
 }
 
 .brand-name {
-    color: #a3d4f7;
+    color: #bce0f4;
     margin-top: 10px;
 }

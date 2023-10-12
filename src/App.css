@@ -2,5 +2,22 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
   
+ 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;     
+  min-height: 80vh;   
+  max-width: 400px;
+  margin: auto;
+  background-image: url('https://i0.wp.com/www.titanui.com/wp-content/uploads/2022/08/02/20-Frosted-Glass-Style-Weather-Icons.webp?ssl=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.07);
+}
