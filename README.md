@@ -21,25 +21,13 @@ SkyStatus brings the world's weather to your fingertips in a beautifully designe
 
 ### 🖥️ Installation & Running
 
-1. 🍴 Fork or clone this repository:
-\```bash
-git clone YOUR_REPO_URL
-\```
+1. 🍴 Fork or clone this repository
 
 2. 🚶‍♂️ Go into the project directory:
-\```bash
-cd DIRECTORY_NAME
-\```
 
 3. 📦 Install necessary packages:
-\```bash
-npm install
-\```
 
 4. 🎉 Start the development server and watch the magic:
-\```bash
-npm start
-\```
 
 Fire up your browser and visit `http://localhost:3000/` to see SkyStatus in action!
 
